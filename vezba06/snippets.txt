@@ -1,0 +1,14 @@
+input1 = ['a', 'b']
+print(input1)
+
+input2 = ['a', 'b', 'a', 'b', 'a', 'b', 'a', 'b', 'a', 'b']
+print(input2)
+
+input3 = ['a', 'a', 'b', 'b', 'b', 'c', 'c', 'c', 'c']
+print(input3)
+
+input4 = ['a', 'a', 'b', 'b', 'b', 'c', 'c', 'c', 'c', 'd', 'd', 'd', 'd', 'd']
+print(input4)
+
+input5 = ['a', 'a', 'a', 'b', 'b', 'b', 'b', 'c', 'c', 'c', 'c', 'c', 'd', 'd', 'd', 'd', 'd', 'd', 'e', 'e', 'f']
+print(input5)
